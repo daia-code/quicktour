@@ -1,6 +1,6 @@
 function visitOradea(){
     console.log("Welcome to Oradea");
-    window.location.href="oradea.html";
+    window.location.href="https://daia-code.github.io/oradea.html";
 }
 function visitTM(){
     console.log("Welcome to Timisoara");
